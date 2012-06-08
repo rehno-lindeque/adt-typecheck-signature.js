@@ -1,0 +1,19 @@
+{
+  "author": "Rehno Lindeque <code@rehno.lindeque.name> (http://rehno.lindeque.name)",
+  "name": "adt-typecheck-signature.js",
+  "description": "Type check your JavaScript function parameters",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rehno-lindeque/adt-typecheck-signature.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rehno-lindeque/adt-typecheck-signature.js.git"
+  },
+  "main": "./dist/adt-typecheck-signature",
+  "engines": {},
+  "dependencies": {
+    "adt.js": "git+ssh://git@github.com:rehno-lindeque/adt.js.git#master"
+    "adt-typecheck.js": "git+ssh://git@github.com:rehno-lindeque/adt-typecheck.js.git#master"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
